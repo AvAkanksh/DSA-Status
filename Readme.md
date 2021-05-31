@@ -6,7 +6,7 @@
 ## Day 1:
 - Watching MIT open courseware Lectures on youtube [LINK](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
   
-![Coding ><](https://bit.ly/2Tw9yZ7)
+<img align='left' src='https://bit.ly/2Tw9yZ7'>
 
 * [x] Lecture 1
 * [ ] Lecture 2
