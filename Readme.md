@@ -4,7 +4,7 @@
 
 *Starting on 31st of May 2021* 
 ## Day 1:
-- Watching MIT open courseware Lectures on youtube [LINK](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+- Watching MIT open courseware Lectures on youtube [LINK](https://bit.ly/3wPbE4r)
   
 <img align='right' src='https://bit.ly/2Tw9yZ7'>
 
