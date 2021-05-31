@@ -18,3 +18,5 @@
   * [ ] Lecture 8
   * [ ] Lecture 9
   * [ ] Lecture 10
+
+<img align='right' src='https://bit.ly/2Tw9yZ7'>
